@@ -40,11 +40,10 @@ success = 0
 #s.post(url = api_clearCart, headers=headers)
 
 # Loop through SKUs
-for i in range(13215, 14000):
+for i in range(1, 14000):
 	x = str(i)
 	data = {"skus":{x:"1"}} 
 	r = s.post(url = api_addToCart, json = data, headers=headers)#, proxies=proxies, verify=False) 
-	quit()
 	#print(r.request.body)
 	#print(r.text)
 	print i, "\t",
