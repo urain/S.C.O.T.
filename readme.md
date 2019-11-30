@@ -1,11 +1,3 @@
- #####  #    # #     #                   ######                                    
-#     # #   #  #     #                   #     # #####  #    # ##### ###### #####  
-#       #  #   #     #                   #     # #    # #    #   #   #      #    # 
- #####  ###    #     #    ##### #####    ######  #    # #    #   #   #####  #    # 
-      # #  #   #     #                   #     # #####  #    #   #   #      #####  
-#     # #   #  #     #                   #     # #   #  #    #   #   #      #   #  
- #####  #    #  #####                    ######  #    #  ####    #   ###### #    # 
- ==================================================================================
 This tool has the ability to bruteforce valid SKUs from the 
 Star Citizen store. Why? Dunno. You can find hidden SKUs sometimes
 and if you are awaiting the release of a ship, instead of refreshing
