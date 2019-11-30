@@ -28,7 +28,7 @@ s = requests.Session()
 s.cookies.set("_rsi_device", "zzzz")	  # required or web sess logout
 s.cookies.set("Rsi-Token","xxxx") # same
 headers = { "X-Rsi-Token":"xxxx", # same 
-			"Origin": "https://robertsspaceindustries.com"}	  # may not be necessary
+	    "Origin": "https://robertsspaceindustries.com"}	  # may not be necessary
 
 # Establish a benign session to set rest of cookie values
 t = s.get(url = "https://robertsspaceindustries.com/pledge/extras?product_id=72")
