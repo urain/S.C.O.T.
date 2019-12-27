@@ -25,3 +25,7 @@ job done. It also requires a tool called unp4k(https://github.com/dolkensp/unp4k
 Simple batch script to kill all instances of Star Citizen, remove the shaders directory (which
 is what often causes issues with the game), and restarts the client. Using this while the game
 is running will often allow you to get the "Recover Instance" prompt upon logging back in.
+
+## Star AFK
+Simple python script to prevent you from going AFK in game. Will keep you logged in by pressing keys
+you define in the file at random intervals.
