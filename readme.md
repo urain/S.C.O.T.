@@ -18,5 +18,5 @@ ship you want (you can find it by inspecting the page of the ship you want.)
 I wrote this tool to parse the Data.p4k game file for item locations, prices, stats, etc.
 I still use this tool when brand new patches come out and sites like starcitizendb.com,
 gallog.co, or erkul.games haven't updated their items yet; but for the most part those sites
-are the goto resources. This script is down and dirt and requires a tool called 
-unp4k(https://github.com/dolkensp/unp4k).
+are the goto resources. This script is down and dirty (i.e. has a lot of errors but it gets the
+job done. It also requires a tool called unp4k(https://github.com/dolkensp/unp4k).
