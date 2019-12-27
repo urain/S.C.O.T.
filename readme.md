@@ -20,3 +20,8 @@ I still use this tool when brand new patches come out and sites like starcitizen
 gallog.co, or erkul.games haven't updated their items yet; but for the most part those sites
 are the goto resources. This script is down and dirty (i.e. has a lot of errors but it gets the
 job done. It also requires a tool called unp4k(https://github.com/dolkensp/unp4k).
+
+## Star Kill
+Simple batch script to kill all instances of Star Citizen, remove the shaders directory (which
+is what often causes issues with the game), and restarts the client. Using this while the game
+is running will often allow you to get the "Recover Instance" prompt upon logging back in.
