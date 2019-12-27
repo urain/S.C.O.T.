@@ -1,4 +1,5 @@
 # Star Citizen's Obscure Toolset (S.C.O.T)
+*Use at your own risk. Do what you feel your account/Terms of Service Allows.*
 
 ## Star Brute
 This tool has the ability to bruteforce valid SKUs from the 
